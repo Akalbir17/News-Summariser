@@ -26,7 +26,7 @@ To clone the repository, follow these steps:
 - Run the following command:
 
 ```bash
-git clone https://github.com/aryanxk02/Summarize.git
+git clone https://github.com/Akalbir17/Summarize.git
 ```
 
 > This will clone the repository to your local machine.
