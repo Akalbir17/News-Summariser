@@ -1,4 +1,4 @@
-# News Summarization
+# NewsGPT
 
 This project aims to provide an efficient way to summarize news articles using two different methods: Extractive News Summarisation and Abstractive News Summarisation using GPT-3. It also includes a comparison between the two summary approaches. The application can be used through a web interface created using Gradio.
 
